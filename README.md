@@ -24,4 +24,5 @@ Learn to implement Decision Tree and Random Forest models for classification tas
 
 <img width="1440" alt="Screenshot 2025-06-03 at 10 04 11 AM" src="https://github.com/user-attachments/assets/5f9313a9-344d-4222-a6ee-98596d682345" />
 <img width="630" alt="Screenshot 2025-06-03 at 10 04 22 AM" src="https://github.com/user-attachments/assets/24de721c-41e4-4598-bd3d-a6b5156bf99e" />
-![Uploading Screenshot 2025-06-03 at 10.04.29 AM.png…]()
+<img width="630" alt="Screenshot 2025-06-03 at 10 04 29 AM" src="https://github.com/user-attachments/assets/3a1c6282-fb65-4b61-99b9-4376cd7ada5a" />
+
